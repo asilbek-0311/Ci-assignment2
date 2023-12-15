@@ -46,7 +46,8 @@ Overall accuracy on the test dataset.
 ![Confusion Matrix](./Confusion%20Matrix.png)
 
 ### Report
-We also have prepared [report](CI%20Assignment%202.pdf), you can access the report with the link provided.
+We also have prepared [report](Assignment%20Report.pdf), you can access the report with the link provided
+
 
 
 ### How to Run
